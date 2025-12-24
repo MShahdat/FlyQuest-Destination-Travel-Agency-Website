@@ -1,12 +1,55 @@
-# React + Vite
+# ✈️ FlyQuest Destination
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**FlyQuest Destination** is a fully responsive travel and study abroad agency website built with modern frontend technologies. The platform provides complete guidance for international education, travel services, visa processing, and English coaching through a clean, user-friendly interface optimized for all devices.
 
-Currently, two official plugins are available:
+## 🔗 **Live Website:** https://fly-quest-destination.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Purpose
 
-## Expanding the ESLint configuration
+This project demonstrates a production-ready frontend application for a travel and study abroad agency, focusing on responsive design, structured navigation, real-world features, and seamless user interaction.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 📌 Project Overview
+
+FlyQuest Destination represents a professional travel and education consultancy website. It allows users to explore study abroad opportunities, travel-related services, English coaching programs, and essential resources while enabling direct communication with the agency.
+
+
+## ✨ Key Features
+
+- ✅ Fully responsive navigation bar for all devices  
+- 🔽 **Dropdown (Child) Navigation Items** in the navbar for structured and easy access to sub-pages  
+- 🏠 **Home Page** with modern banner, hero section, client reviews, and free consultation registration  
+- 🌍 **Study Abroad Section** with multiple country-specific pages  
+- 🛂 **Our Services** including:
+  - Tourist Visa  
+  - Hajj & Umrah  
+  - Air Ticket Booking  
+- 📘 **English Coaching** with:
+  - IELTS Information Page  
+  - Duolingo English Test Page  
+- 🖼️ **Gallery** showcasing successful client stories  
+- 📚 **Resources Section** including:
+  - Frequently Asked Questions (FAQs)  
+  - Blogs  
+  - Detailed Visa Interview Process  
+  - Step-by-Step Enrollment Guide  
+- 🏢 **About Us** page with agency details and messages from the MD and Chairman  
+- 📞 **Contact Page** featuring:
+  - Contact form integrated with **EmailJS**  
+  - **Google Map integration** for easily locating the agency office  
+
+
+
+## 🛠️ Tools & Technologies
+
+- **React.js** – Component-based frontend library  
+- **Tailwind CSS** – Utility-first CSS framework for responsive UI  
+- **React Router DOM** – Client-side routing and nested page navigation  
+- **EmailJS (React EmailJS)** – Contact form handling with email confirmation  
+- **Google Maps Embed** – Office location display for easy navigation  
+- **Netlify** – Deployment and hosting  
+- **Git & GitHub** – Version control and repository management
+- **VS Code** – Development environment
+
+---
+
